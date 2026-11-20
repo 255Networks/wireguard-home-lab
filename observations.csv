@@ -1,0 +1,5 @@
+date,system,activity,evidence_basis,outstanding_question
+2025-02-02,Home VPN,DNS check during active tunnel,Contemporaneous personal troubleshooting note,Which resolver handled that query
+2025-02-07,WireGuard,Reported running on Flint 2,Contemporaneous personal troubleshooting note,Whether an independent off-site peer completed a handshake
+2025-02-07,Tailscale,Expected change in observed public address absent on Mac,Contemporaneous personal troubleshooting note,Whether egress matched the selected exit node under controlled comparison
+2025-02-14,Home network edge,Reported static WAN setup and UDP forwarding rule applied; firewall loaded with warnings,Contemporaneous personal troubleshooting note,Whether handshake and private service access worked off-site
